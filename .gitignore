@@ -1,0 +1,14 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac OS X
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
