@@ -15,7 +15,7 @@ The landing page is designed with a sleek, modern aesthetic featuring:
 - Google Fonts (Onest, Plus Jakarta Sans)
 
 ## File Structure
-- `synapsis.html`: The main HTML file containing the structure, styles, and logic for the landing page.
+- `index.html`: The main HTML file containing the structure, styles, and logic for the landing page.
 
 ## How to Run
-Simply open `synapsis.html` in any modern web browser to view the landing page. No build process or server is required.
+Simply open `index.html` in any modern web browser to view the landing page. No build process or server is required.
